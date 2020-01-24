@@ -6,3 +6,14 @@
   text-shadow: 1px 1px 5px #fff;
 }
 /* write your parent styles in here for your App.js */
+.card{
+    background-image: url(components/starwars.jpg);
+    width: 20%;
+    margin: 1%;
+    padding: 1%;
+    border-radius: 20px;
+    height: 20vh;
+    color: white;
+    background-size: cover;
+
+}
